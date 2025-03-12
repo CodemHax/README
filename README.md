@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h2>GitHub Stats <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h2>
 
-![Huzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodemHax&show_icons=true&theme=merko)
+![Altaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodemHax&show_icons=true&theme=merko)
 
 <h2>Streak <img src="https://emojis.slackmojis.com/emojis/images/1643514841/8541/computercat.gif?1643514841" width="22"></h2>
 
