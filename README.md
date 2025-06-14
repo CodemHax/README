@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Andriod devlopment
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Python
-
+![Visitor Count](https://profile-counter.glitch.me/Codemhax/count.svg)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodemHax&layout=compact)](https://github.com/CodeObser/github-readme-stats)
