@@ -30,6 +30,11 @@ Here are some ideas to get you started:
 
 <h2>Langs And Tools <img src="[https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394](https://emojis.slackmojis.com/emojis/images/1643516686/27316/tooth.gif?1643516686)" width="22"></h2>  
 
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![](https://skillicons.dev/icons?i=python,go,kotlin,typescript,androidstudio,idea,vscode,github,mongodb,redis)
 
 
