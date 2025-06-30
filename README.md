@@ -32,10 +32,15 @@ Here are some ideas to get you started:
 
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
 
 ![](https://skillicons.dev/icons?i=python,go,kotlin,typescript,androidstudio,idea,vscode,github,mongodb,redis)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Codemhax/count.svg)
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/Codemhax/count.svg)
+
